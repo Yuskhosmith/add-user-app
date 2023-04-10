@@ -1,0 +1,11 @@
+.container {
+    margin: 2rem auto;
+    width: 90%;
+    max-width: 40rem;
+    padding: 1rem;
+}
+.user-list{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
